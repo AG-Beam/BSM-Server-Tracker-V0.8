@@ -12,7 +12,9 @@ $${\color{red} ✯✯✯✯✯✯\space BSM's \space Server-Tracker \space creat
 》Able to check for Cracked & non-cracked servers<br />
 》Able to check all types of server versions and What the server is running <br />
 if its paper folia or anything else <br />
-
+》Able to by-pass everything on Kaboom Network with over 500 accounts <br />
+banned or perm muted/donkeyed for 10years, i have crashed their servers over 
+250 times and pulled server data and more.
 ---------------------------------------------------------------------------------------------------------------------------------<br />
 $${\color{red} \space Abit  \space of \space information \space   }$$
 
